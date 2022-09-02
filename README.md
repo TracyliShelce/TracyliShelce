@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/tracyliluz/
 ----------------------------------------------------------------------------------
 - 👋 Oi, eu sou @TracyliShelce
-- 👀 Estou interessado em fazer minha transição para dados
+- 👀 Estou interessada em fazer minha transição para dados
 - 🌱 Atualmente estou aprendendo SQL, Python e outros
 - 💞️ Estou procurando colaborar em grupos de estudo de tecnologia
 - 📫 Como me encontrar: https://www.linkedin.com/in/tracyliluz/

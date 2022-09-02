@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on technology study groups
 - 📫 How to reach me https://www.linkedin.com/in/tracyliluz/
 
+
+
 - 👋 Oi, eu sou @TracyliShelce
 - 👀 Estou interessado em fazer minha transição para dados
 - 🌱 Atualmente estou aprendendo SQL, Python e outros
